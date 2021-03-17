@@ -1,0 +1,2 @@
+49d958067f734b04b6e44f8ee922d777
+https://wdlco-surveytextmining.cognitiveservices.azure.com/
